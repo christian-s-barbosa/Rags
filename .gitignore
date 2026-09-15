@@ -1,0 +1,6 @@
+# Obsidian
+.obsidian/
+
+# Sistema
+.DS_Store
+Thumbs.db
