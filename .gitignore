@@ -4,3 +4,9 @@
 # Sistema
 .DS_Store
 Thumbs.db
+
+# RAG
+rag/.venv/
+rag/chroma/
+rag/.env
+__pycache__/
